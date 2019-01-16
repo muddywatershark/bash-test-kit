@@ -3,3 +3,4 @@
 
 # TMP files
 build/*.tmp
+build/*.sh
